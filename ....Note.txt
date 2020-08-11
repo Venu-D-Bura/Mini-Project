@@ -1,5 +1,0 @@
-DONE 1 : add supplier login button in guest user.      
-Done 2 : not able to delete an image after rejected by requested image from admin.	
-Done 3: not able to create productcategoryimages 
-4: admin side in forest products => after edit not able to update all details in request 		table and same for delete not able to update (from accept to reject) in request tbl
-
